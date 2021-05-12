@@ -1,8 +1,8 @@
 {
     "name": "SealsDiscordTheme",
     "description": "Seal's Discord Theme",
-    "version": "1.0",
+    "version": "1.0.5",
     "author": "Seal#9999",
     "theme": "style.css",
-    "license": ""
+    "license": "MIT"
 }
